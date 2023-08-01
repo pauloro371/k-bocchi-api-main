@@ -1,0 +1,41 @@
+[
+  {
+    "horario": [
+      {
+        "dia": "lunes",
+        "hora_fin": "20:30:00",
+        "hora_inicio": "13:30:00",
+        "id": 57,
+        "id_terapeuta": 219
+      },
+      {
+        "dia": "martes",
+        "hora_fin": "15:00:00",
+        "hora_inicio": "07:00:00",
+        "id": 58,
+        "id_terapeuta": 219
+      },
+      {
+        "dia": "miercoles",
+        "hora_fin": "15:00:00",
+        "hora_inicio": "07:00:00",
+        "id": 59,
+        "id_terapeuta": 219
+      },
+      {
+        "dia": "viernes",
+        "hora_fin": "15:00:00",
+        "hora_inicio": "07:00:00",
+        "id": 60,
+        "id_terapeuta": 219
+      },
+      {
+        "dia": "sabado",
+        "hora_fin": "16:00:00",
+        "hora_inicio": "10:30:00",
+        "id": 61,
+        "id_terapeuta": 219
+      }
+    ]
+  }
+]

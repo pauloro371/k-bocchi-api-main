@@ -1,0 +1,6 @@
+exports.ESTADO_SIN_MANDAR = "sin mandar"
+exports.ESTADO_PAQUETERIA = "paqueteria"
+exports.ESTADO_PREPARADO = "preparado"
+exports.ESTADO_CAMINO = "camino"
+exports.ESTADO_PUNTO ="punto"
+exports.ESTADO_ENTREGADO ="entregado"
